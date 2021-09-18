@@ -6,6 +6,7 @@
 - 📫My blog: https://phuongnguyenblog.com
 - 📫Facebook: https://facebook.com/jsisen
 - 📫My YT channel: https://youtube.com/c/phuongnguyenit
+- This github: i'll be share csript about: system ad, exchange server 2016, 2019, O365,...
 
 <!---
 phuongnguyenitpro/phuongnguyenitpro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
