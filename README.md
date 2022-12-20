@@ -3,8 +3,11 @@
 - 🌱 I’m currently more than 13 years of experience and master IT Expert system administration, solutions from Microsoft, Cloud, Cisco network infrastructure management (Router, Swicth, FIrewall ASA Cisco, ..), Fortigate ,. Virtual administration of VMware vSphere, vCenter, .. The major backup solutions: Veeam Backup, Veritas Backup, Net Backup, …Anti virus security.
 - 💞️ I’m looking to collaborate on IT System
 - 📫 My blog: https://viettechgroup.vn
+- 📫 My site: https://phuongnguyenit.com
 - 📫My blog: https://phuongnguyenblog.com
 - 📫Facebook: https://facebook.com/jsisen
+- 📫Twitter https://twitter.com/jsisen
+- 📫Linkedin  https://www.linkedin.com/in/phuong-nguyen-van/
 - 📫My YT channel: https://youtube.com/c/phuongnguyenit
 - This github: i'll be share csript about: system ad, exchange server 2016, 2019, O365,...
 
