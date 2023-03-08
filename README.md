@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phuongnguyenitpro The IT specialist site captures personal knowledge and the IT community. Phuong Nguyen is IT Expert about MCSA, MCSE, MCITP, CCNA,VCP, LPI Senior Management Specialist in Bussiness Enterprise.
 - 👀 I’m interested in new IT technology
-- 🌱 I’m currently more than 14 years of experience and master IT Expert system administration, solutions from Microsoft, Cloud, Cisco network infrastructure management (Router, Swicth, FIrewall ASA Cisco, ..), Fortigate ,. Virtual administration of VMware vSphere, vCenter, .. The major backup solutions: Veeam Backup, Veritas Backup, Net Backup, …Anti virus security.
+- 🌱 I’m currently more than 15 years of experience and master IT Expert system administration, solutions from Microsoft, Cloud, Cisco network infrastructure management (Router, Swicth, FIrewall ASA Cisco, ..), Fortigate ,. Virtual administration of VMware vSphere, vCenter, .. The major backup solutions: Veeam Backup, Veritas Backup, Net Backup, …Anti virus security.
 - 💞️ I’m looking to collaborate on IT System
 - 📫 My blog: https://viettechgroup.vn
 - 📫 My site: https://phuongnguyenit.com
