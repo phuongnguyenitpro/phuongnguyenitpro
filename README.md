@@ -9,6 +9,7 @@
 - 📫Twitter https://twitter.com/jsisen
 - 📫Linkedin  https://www.linkedin.com/in/phuong-nguyen-van/
 - 📫My YT channel: https://youtube.com/c/phuongnguyenit
+- 📫 Email: phuong.lord@gmail.com, phuongit.contact@gmail.com, phuong.nguyen@viettechgroup.vn
 - This github: I'll be share csript about: 
 - Microsoft Active Domain Controller 2008/2008R2/2012/2012R2/2016/2019/2022 
 - Microsoft Server Exchange Server 2010/2013/2016/2019. Deploy and migration Microsoft Server Exchange.
