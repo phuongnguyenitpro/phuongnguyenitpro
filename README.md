@@ -1,23 +1,25 @@
 # 👋 Hi, I'm Phuong Nguyen
 
-### IT Infrastructure & System Administration Specialist
+### IT Infrastructure Specialist | IT Strategy | IT Manager | ERP & Digital Transformation Consultant
 
-**18+ years of experience** in enterprise IT infrastructure, system administration, virtualization, networking, backup, security, and business IT operations.
+**16+ years of experience** in enterprise IT infrastructure, system administration, IT strategy, virtualization, networking, backup, security, ERP implementation, and digital transformation for business enterprises.
 
 ![Microsoft](https://img.shields.io/badge/Microsoft-Expert-blue)
 ![VMware](https://img.shields.io/badge/VMware-vSphere-informational)
 ![Cisco](https://img.shields.io/badge/Cisco-Networking-blue)
 ![Fortinet](https://img.shields.io/badge/Fortinet-FortiGate-red)
 ![Linux](https://img.shields.io/badge/Linux-Administration-black)
+![ERP](https://img.shields.io/badge/ERP-Oracle%20%7C%20DMS-orange)
+![Digital Transformation](https://img.shields.io/badge/Digital%20Transformation-Consulting-purple)
 ![Backup](https://img.shields.io/badge/Backup-Veeam%20%7C%20Veritas%20%7C%20NetBackup-green)
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Phuong Nguyen**, an IT specialist passionate about building, operating, and optimizing enterprise IT systems.
+I'm **Phuong Nguyen**, an IT specialist and enterprise IT practitioner with strong experience in infrastructure, system administration, IT operations, ERP projects, and digital transformation initiatives.
 
-My personal sites and GitHub repositories are used to capture, organize, and share practical IT knowledge with the community, especially around Microsoft infrastructure, virtualization, cloud, networking, backup, and security.
+My personal sites and GitHub repositories are used to capture, organize, and share practical IT knowledge with the IT community, especially around Microsoft infrastructure, virtualization, cloud, networking, backup, cybersecurity, ERP, and enterprise digital transformation.
 
 I have hands-on experience with:
 
@@ -29,6 +31,44 @@ I have hands-on experience with:
 * Linux system administration
 * Backup and disaster recovery solutions
 * Enterprise IT operations and infrastructure management
+* IT strategy planning and IT governance
+* ERP, DMS, and enterprise application implementation
+* Business process digitalization and system integration
+
+---
+
+## 🧭 IT Strategy & Management
+
+With a strong background in enterprise IT operations, I focus not only on technical implementation but also on aligning IT with business strategy.
+
+My key focus areas include:
+
+* IT strategy and roadmap planning
+* IT infrastructure modernization
+* Enterprise system architecture
+* IT governance, security, and compliance
+* IT service operation improvement
+* Cost optimization and technology standardization
+* Business continuity and disaster recovery planning
+* Vendor evaluation and solution assessment
+* IT project management and cross-functional collaboration
+
+---
+
+## 🏢 ERP, DMS & Digital Transformation
+
+I have participated in and supported large enterprise technology projects, including:
+
+* ERP implementation and enterprise resource planning projects
+* Oracle ERP / Oracle-based enterprise solutions
+* DMS implementation and business distribution management systems
+* Integration between ERP, DMS, mobile apps, reporting systems, and business databases
+* Digital transformation consulting for enterprise operations
+* Business process review and system requirement analysis
+* Master data, reporting, dashboard, and system integration planning
+* Evaluation of software vendors, technical architecture, security, scalability, and long-term operation risks
+
+My goal is to help enterprises select, implement, and operate technology platforms that are practical, secure, scalable, and aligned with real business needs.
 
 ---
 
@@ -41,13 +81,16 @@ I have hands-on experience with:
 * VCP
 * LPI
 * Enterprise IT Infrastructure Management
+* IT Strategy & IT Management
+* ERP / DMS Project Implementation
 * System Administration & Solution Design
+* Digital Transformation Consulting
 
 ---
 
 ## 🚀 What I’m Interested In
 
-I’m interested in modern IT technologies, including:
+I’m interested in modern IT technologies and enterprise transformation, including:
 
 * Cloud infrastructure
 * Enterprise system architecture
@@ -56,6 +99,9 @@ I’m interested in modern IT technologies, including:
 * Automation and scripting
 * Backup, disaster recovery, and business continuity
 * Microsoft 365 and Exchange modernization
+* ERP, DMS, and business system integration
+* Digital transformation for enterprise operations
+* AI, data platforms, dashboards, and decision-support systems
 
 ---
 
@@ -87,9 +133,19 @@ This GitHub will be used to share scripts, technical notes, deployment guides, a
 * Virtual machine administration
 * Migration and backup scenarios
 
+### ERP, DMS & Enterprise Applications
+
+* ERP implementation notes
+* Oracle ERP and Oracle-based system deployment experience
+* DMS project implementation and integration
+* Enterprise application architecture
+* Business process digitalization
+* System integration between ERP, DMS, mobile apps, databases, and reporting platforms
+
 ### Database & System
 
 * Microsoft SQL Server
+* Oracle Database
 * System monitoring
 * Infrastructure automation
 * Backup and restore procedures
@@ -111,7 +167,10 @@ I’m looking to collaborate on:
 * IT system administration
 * Infrastructure design
 * Microsoft, VMware, Cisco, Fortinet projects
+* ERP, DMS, and enterprise application projects
+* Oracle ERP and business system implementation
 * Backup and disaster recovery solutions
+* Digital transformation consulting
 * Enterprise IT operation improvement
 * Knowledge sharing for the IT community
 
@@ -137,4 +196,4 @@ I’m looking to collaborate on:
 
 ---
 
-> “Sharing real-world IT knowledge, practical scripts, and infrastructure experience for the IT community.”
+> “Sharing real-world IT knowledge, practical scripts, enterprise infrastructure experience, and digital transformation practices for the IT community.”
