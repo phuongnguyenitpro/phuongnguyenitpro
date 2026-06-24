@@ -2,7 +2,7 @@
 
 ### IT Infrastructure & System Administration Specialist
 
-**16+ years of experience** in enterprise IT infrastructure, system administration, virtualization, networking, backup, security, and business IT operations.
+**18+ years of experience** in enterprise IT infrastructure, system administration, virtualization, networking, backup, security, and business IT operations.
 
 ![Microsoft](https://img.shields.io/badge/Microsoft-Expert-blue)
 ![VMware](https://img.shields.io/badge/VMware-vSphere-informational)
