@@ -2,7 +2,7 @@
 
 ### IT Infrastructure Specialist | IT Strategy | IT Manager | ERP, DMS, AI Agent & Digital Transformation Consultant
 
-**16+ years of experience** in enterprise IT infrastructure, system administration, network infrastructure, cybersecurity, virtualization, backup, ERP/DMS implementation, IT strategy, AI automation, and digital transformation for business enterprises.
+**18+ years of experience** in enterprise IT infrastructure, system administration, network infrastructure, cybersecurity, virtualization, backup, ERP/DMS implementation, IT strategy, AI automation, and digital transformation for business enterprises.
 
 ![Microsoft](https://img.shields.io/badge/Microsoft-Expert-blue)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-2008%20to%202025-blue)
@@ -35,7 +35,7 @@ My personal websites and GitHub repositories are used to capture, organize, and 
 | Name             | Phuong Nguyen                                                                                                                   |
 | GitHub           | @phuongnguyenitpro                                                                                                              |
 | Main Role        | IT Infrastructure Specialist / IT Manager / IT Strategy Consultant                                                              |
-| Experience       | 16+ years in enterprise IT                                                                                                      |
+| Experience       | 18+ years in enterprise IT                                                                                                      |
 | Core Strengths   | System Administration, Network Infrastructure, Firewall, Virtualization, Backup, ERP/DMS, AI Automation, Digital Transformation |
 | Enterprise Focus | Practical, secure, scalable, and business-aligned IT solutions                                                                  |
 | Community Focus  | Sharing scripts, deployment guides, troubleshooting notes, and real-world IT experience                                         |
